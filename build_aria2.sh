@@ -38,7 +38,7 @@ fi
 
 host_tag=linux-x86_64
 minsdkversion=18
-target_abis="armeabi-v7a x86 arm64-v8a x86_64"
+target_abis="armeabi-v7a"
 silent=false
 
 for ARGUMENT in "$@"
